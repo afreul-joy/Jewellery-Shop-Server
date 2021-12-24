@@ -1,0 +1,51 @@
+[   
+    {
+    "name":"Real Gold Bangles",
+    "offer":65400,
+    "price":62400,
+    "img":"https://i.ibb.co/k86L68K/gold-curi.jpg",
+    "_id":1,
+    "rating":2
+  },
+    {
+    "name":"Cute Necklace",
+    "offer":5400,
+    "price":2400,
+    "img":"https://i.ibb.co/nm7xbhz/heart-pendant.jpg",
+    "_id":2,
+    "rating":2
+  },
+    {
+    "name":"Special Neckless",
+    "offer":25400,
+    "price":23400,
+    "img":"https://i.ibb.co/fNG3rcN/necklace.jpg",
+    "_id":3,
+    "rating":2
+  },
+    {
+    "name":"Pearls Necklace",
+    "offer":45500,
+    "price":40430,
+    "img":"https://i.ibb.co/2KY83Y3/pearls-necklace.jpg",
+    "_id":4,
+    "rating":2
+  },
+    {
+    "name":"Sapphire Ring",
+    "offer":53400,
+    "price":2400,
+    "img":"https://i.ibb.co/9rHyy2G/pendant.jpg",
+    "_id":5,
+    "rating":2
+  },
+    {
+    "name":"Pendant",
+    "offer":25400,
+    "price":52400,
+    "img":"https://i.ibb.co/w7ps1f4/sapphire-ring.jpg",
+    "_id":6,
+    "rating":2
+  }
+
+]
